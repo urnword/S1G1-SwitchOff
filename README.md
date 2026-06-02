@@ -202,4 +202,8 @@ Status accuracy after sensor calibration: **>90%**
 
 ## 📄 License
 
-This project was developed as an academic submission for CT125 Digital Technology, Bahagian Matrikulasi, Kementerian Pendidikan Malaysia. All rights reserved.
+This project was developed as an academic submission for CT115/CT125 Digital Technology, Bahagian Matrikulasi, Kementerian Pendidikan Malaysia. 
+
+© 2026 TECH CC SDN BHD. All rights reserved.
+
+The source code and design files in this repository are provided solely for educational review and portfolio demonstration purposes. Permission is granted to view the materials, but cloning, modifying, or redistributing this work for commercial use or academic re-submission under a different name is strictly prohibited.
